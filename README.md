@@ -17,3 +17,7 @@ We used Python, Pandas, SQLite and SQLAlchemy for this analysis.
 The temperatures in December are slightly lower than June but suitable for a surf and ice cream shop business.
 More interesting weather data could be gatherered by analyzing the following queries:
  - the total precipitation levels for June and December,
+![image 3](https://user-images.githubusercontent.com/64053195/109397638-ac73ce00-7905-11eb-885e-62a75f63b505.PNG)
+
+- the amount of precipitation at the most active station for June and December.
+![image 4](https://user-images.githubusercontent.com/64053195/109397658-cc0af680-7905-11eb-8d1c-34a582c12c7f.PNG)
